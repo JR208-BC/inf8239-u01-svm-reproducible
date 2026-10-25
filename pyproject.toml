@@ -1,0 +1,16 @@
+[project]
+name = "inf8239-u01"
+version = "0.1.0"
+description = "Ejercicio 01 INF-8239: dataset público y SVM reproducible"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,5 @@
+modelo,f1_macro_cv_media,f1_macro_cv_std,f1_macro_prueba,accuracy_prueba,recall_dropout_prueba
+Baseline (clase mayoritaria),0.222,0.0002,0.2221,0.4994,0.0
+SVM RBF (C=1),0.6031,0.0133,0.5982,0.7141,0.6761
+SVM RBF balanceado (C=1),0.6482,0.0145,0.6399,0.687,0.5599
+"SVM balanceado ajustado {'model__C': 1, 'model__gamma': 'scale'}",0.6482,0.0145,0.6399,0.687,0.5599

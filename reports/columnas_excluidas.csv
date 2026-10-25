@@ -1,0 +1,9 @@
+variable,momento_disponibilidad,riesgo
+Debtor,Durante el curso (verificar),Posible fuga: puede registrarse cuando el estudiante ya está en riesgo de abandono
+Tuition fees up to date,Durante el curso (verificar),Posible fuga: quien abandona suele dejar de pagar
+Curricular units 2nd sem (credited),Inicio del 2.º semestre,No existe al matricularse; define el momento de predicción
+Curricular units 2nd sem (enrolled),Inicio del 2.º semestre,No existe al matricularse; define el momento de predicción
+Curricular units 2nd sem (evaluations),Fin del 2.º semestre,Posible fuga si se predice antes de ese semestre
+Curricular units 2nd sem (approved),Fin del 2.º semestre,Posible fuga si se predice antes de ese semestre; muy ligada al resultado
+Curricular units 2nd sem (grade),Fin del 2.º semestre,Posible fuga si se predice antes de ese semestre; muy ligada al resultado
+Curricular units 2nd sem (without evaluations),Fin del 2.º semestre,Posible fuga si se predice antes de ese semestre

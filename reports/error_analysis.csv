@@ -1,0 +1,9 @@
+real,predicho,Course,Age at enrollment,Admission grade,Curricular units 1st sem (approved),Curricular units 1st sem (grade)
+Graduate,Enrolled,9147,19,115.2,5,12.6
+Dropout,Enrolled,9556,19,106.0,2,12.75
+Enrolled,Dropout,9500,33,130.0,1,10.0
+Dropout,Enrolled,9070,21,143.0,5,11.4
+Enrolled,Graduate,9085,20,129.0,4,11.75
+Enrolled,Graduate,9254,21,101.8,5,11.6
+Enrolled,Dropout,9991,24,128.2,7,10.714285714285714
+Dropout,Graduate,9500,20,108.2,6,13.266666666666666

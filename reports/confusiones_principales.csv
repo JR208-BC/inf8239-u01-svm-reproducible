@@ -1,0 +1,7 @@
+real,predicho,casos,porcentaje_de_errores
+Dropout,Enrolled,83,30.0
+Graduate,Enrolled,66,23.8
+Dropout,Graduate,42,15.2
+Enrolled,Graduate,37,13.4
+Enrolled,Dropout,30,10.8
+Graduate,Dropout,19,6.9
